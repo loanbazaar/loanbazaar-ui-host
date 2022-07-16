@@ -4,16 +4,16 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "d79c23577c32d14ee8db6a380487d017",
-"index.html": "596763537548106ec7bebfa46a153334",
-"/": "596763537548106ec7bebfa46a153334",
-"main.dart.js": "4aa6b33a1c0a2d3b06e6a550a3d73ab0",
+"index.html": "b903c2d949a93cffd9af56561e1fae0a",
+"/": "b903c2d949a93cffd9af56561e1fae0a",
+"main.dart.js": "78ee15e367fcba2738ba1cfd9f54d403",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "8efd8954e4ff4924f5f81647667c29a1",
 "assets/images/KADELAL.jpeg": "6d745c81bb64d7f2112dc6976d66c02f",
 "assets/AssetManifest.json": "289cc179b1cd94f3c170905636418f74",
-"assets/NOTICES": "f9dc002a23168874ba6562c6d8ee18a5",
+"assets/NOTICES": "5f16c54e545e6d945d0dcfa552c03303",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b"
