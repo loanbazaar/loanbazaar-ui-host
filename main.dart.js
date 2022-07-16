@@ -78794,7 +78794,7 @@ s($,"aLz","avd",()=>A.bZ("\\\\(.)",!0))
 s($,"aMh","avE",()=>A.bZ('[()<>@,;:"\\\\/\\[\\]?={} \\t\\x00-\\x1F\\x7F]',!0))
 s($,"aMz","avJ",()=>A.bZ("(?:"+$.avb().a+")*",!0))
 q($,"aIx","am9",()=>A.jw("https://34.239.0.204:8443/realms/loan-bazaar/protocol/openid-connect/token"))
-q($,"aIz","atx",()=>A.jw("https://34.239.0.204:8443/auth/admin/realms/loan-bazaar/users"))
+q($,"aIz","atx",()=>A.jw("https://34.239.0.204:8443/admin/realms/loan-bazaar/users"))
 q($,"aIA","aty",()=>A.jw("https://34.239.0.204:8443/realms/loan-bazaar/protocol/openid-connect/userinfo"))
 q($,"aIy","atw",()=>A.jw("https://34.239.0.204:8443/realms/loan-bazaar/protocol/openid-connect/logout"))
 q($,"aMc","mX",()=>{var p=null
