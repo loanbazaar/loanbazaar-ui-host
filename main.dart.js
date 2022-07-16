@@ -21239,7 +21239,7 @@ while(true)switch(s){case 0:q=$.auF()
 p=t.O
 o=A.ar(["content-type","application/x-www-form-urlencoded"],p,p)
 s=2
-return A.a_(A.Uy(q,A.ar(["client_id","loan-bazaar-client","client_secret","m1GknLYLqkkt8KLh8SUzvJVGLCupG1UP","refresh_token",new A.mo().aeC()],p,p),o),$async$Uv)
+return A.a_(A.Uy(q,A.ar(["client_id","loan-bazaar-client","client_secret","T0AD9nAqH2Bu3Pg3botJjRTwSrgmaSf0","refresh_token",new A.mo().aeC()],p,p),o),$async$Uv)
 case 2:n=c
 q=n.b
 if(q===204){J.na($.tp.a,"ACCESS_TOKEN")
@@ -22034,7 +22034,7 @@ while(true)switch(s){case 0:p=$.ana()
 o=t.O
 n=A.ar(["content-type","application/x-www-form-urlencoded"],o,o)
 s=3
-return A.a_(A.Uy(p,A.ar(["grant_type","client_credentials","client_id","loan-bazaar-client","client_secret","m1GknLYLqkkt8KLh8SUzvJVGLCupG1UP"],o,o),n),$async$aj3)
+return A.a_(A.Uy(p,A.ar(["grant_type","client_credentials","client_id","loan-bazaar-client","client_secret","T0AD9nAqH2Bu3Pg3botJjRTwSrgmaSf0"],o,o),n),$async$aj3)
 case 3:m=b
 q=A.alV(B.ap.lG(0,A.q0(A.pT(m.e).c.a.h(0,"charset")).ce(0,m.w),null))
 s=1
@@ -72154,7 +72154,7 @@ while(true)switch(s){case 0:p=$.ana()
 o=t.O
 n=A.ar(["Content-Type","application/x-www-form-urlencoded"],o,o)
 s=3
-return A.a_(A.Uy(p,A.ar(["username",a,"password",b,"client_id","loan-bazaar-client","grant_type","password","client_secret","m1GknLYLqkkt8KLh8SUzvJVGLCupG1UP","scope","openid"],o,o),n),$async$mZ)
+return A.a_(A.Uy(p,A.ar(["username",a,"password",b,"client_id","loan-bazaar-client","grant_type","password","client_secret","T0AD9nAqH2Bu3Pg3botJjRTwSrgmaSf0","scope","openid"],o,o),n),$async$mZ)
 case 3:q=d
 s=1
 break
