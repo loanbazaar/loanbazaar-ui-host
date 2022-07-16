@@ -4,24 +4,19 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "d79c23577c32d14ee8db6a380487d017",
-"index.html": "f0dcab59cc7b5d3be97c4f8da4d64b96",
-"/": "f0dcab59cc7b5d3be97c4f8da4d64b96",
-"main.dart.js": "3e119864d0e8655b179b0a64f15e7390",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "825d420a8c0a8b142c689e7759e52702",
+"/": "825d420a8c0a8b142c689e7759e52702",
+"main.dart.js": "625ddd05133c60ea5e0b2a7df9f9f35c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "8efd8954e4ff4924f5f81647667c29a1",
 "assets/images/KADELAL.jpeg": "6d745c81bb64d7f2112dc6976d66c02f",
 "assets/AssetManifest.json": "289cc179b1cd94f3c170905636418f74",
-"assets/NOTICES": "aad043ab0817bb58a1ab79bf2c1b8c99",
+"assets/NOTICES": "f9dc002a23168874ba6562c6d8ee18a5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b"
 };
 
 // The application shell files that are downloaded before a service worker can
